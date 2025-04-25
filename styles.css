@@ -1,0 +1,37 @@
+
+html{
+    background-image:url("https://www.jotform.com/blog/wp-content/uploads/2022/02/patrick-fore-NBLh33lL6Ts-unsplash-700x467.jpg");
+    background-repeat:none;
+    background-size:cover;
+}
+*{
+    font-family:"Playwrite RO" ,cursive;
+    color:white;
+}
+h1{
+    font-size:60px;
+    font-family: "Imperial Script",cursive;
+}
+body{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+#doremon{
+    height:200px;
+    width:400px;
+    position:relative;
+    border-radius:50px;
+    bottom:150px;
+    border:10px solid white;
+    
+    
+}
+
+a{
+    background-color:white;
+    color:black;
+    border-radius:6px;
+    padding:6px;
+    
+}
